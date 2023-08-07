@@ -13,6 +13,6 @@ type,Type,,
 format,Format,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
-external_link,External Link,,
+external_link,External Link,,true
 relation,Relation,,
 language,Language,true,
